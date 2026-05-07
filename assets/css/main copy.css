@@ -1286,6 +1286,7 @@ section,
   position: absolute;
   left: 30px;
   top: -30px;
+  
   width: 60px;
   height: 60px;
   background: var(--accent-color);
